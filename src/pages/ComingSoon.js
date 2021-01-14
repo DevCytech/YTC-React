@@ -11,7 +11,6 @@ export default function ComingSoon() {
 	});
 	return (
 		<>
-			<title>Test</title>
 			<Header />
 			<div class='main container flex flex-down'>
 				<h2>⚠️ This page is under development! ⚠️</h2>
