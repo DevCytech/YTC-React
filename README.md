@@ -1,6 +1,6 @@
 # The YouTube Community Website
 
-The YouTube community website i sa community based all around youtube... Something something I don't know I'm just the website developer lol.... Check out the Discord server [here](https://discord.gg/k98YpEd)
+The YouTube community website is a community based all around youtube... Something something I don't know I'm just the website developer lol.... Check out the Discord server [here](https://discord.gg/k98YpEd)
 
 ## Website Team
 
