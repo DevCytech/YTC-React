@@ -1,0 +1,106 @@
+/* PLEASE DO NOT MODIFY THESE FILES - CY */
+
+/* Colors */
+*:root {
+	--primary-color: #022859;
+	--secondary-color: #011c40;
+	--grey-text: #c9ccd6;
+	--other-1: #034aa6;
+	--other-2: #033e8c;
+	--other-3: #7595bf;
+}
+
+/* Text */
+ul,
+li {
+	list-style-type: none;
+}
+
+a,
+p {
+	text-decoration: none;
+	color: var(--grey-text);
+}
+
+/* Text Styling */
+.txtc {
+	text-align: center;
+}
+
+.subHead {
+	font-weight: 400;
+	font-size: 2rem;
+}
+
+/* Body */
+* {
+	font-family: montserrat, sans-serif;
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+}
+
+html {
+	scroll-behavior: smooth;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+body {
+	background-color: var(--primary-color);
+	line-height: 1.6;
+	color: #ffffff;
+	max-width: 100%;
+}
+
+/* Header */
+.navbar {
+	height: 75px;
+	font-weight: 600;
+	background-color: var(--secondary-color);
+}
+
+.navbar ul {
+	display: flex;
+}
+
+.navbar a {
+	color: var(--grey-text);
+	padding: 10px;
+	margin: 0;
+	padding: 0 10px;
+}
+
+.navbar ul a {
+	font-size: 1rem;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+.navbar ul a:hover {
+	color: #ffffff;
+	background-color: var(--other-1);
+}
+
+.navbar .currentPage {
+	background-color: var(--other-2);
+}
+
+.navbar .flex {
+	justify-content: space-between;
+}
+
+.navbar .logo {
+	margin: 0 10px;
+}
+
+.navbar .logo img {
+	height: 70%;
+	margin: auto 5px;
+}
+
+/* Tablet Responsiveness Support */
+/* Mobile Responsiveness Support */
+
+/* Whatcha Looking At? - CY */
