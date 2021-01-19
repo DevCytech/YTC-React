@@ -12,7 +12,7 @@ export default function ComingSoon() {
 	return (
 		<>
 			<Header />
-			<div class='main container flex flex-down'>
+			<div className='main container flex flex-down'>
 				<h2>⚠️ This page is under development! ⚠️</h2>
 				<p>
 					Please come again in a few days when this page is complete!
